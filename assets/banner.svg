@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">KORINBLACK — access granted</title><desc id="d">Cyberpunk terminal banner with a neon grid</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090b19"/><stop offset="1" stop-color="#1c082b"/></linearGradient><linearGradient id="neon"><stop stop-color="#00f5ff"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#33204a" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#grid)" opacity=".65"/>
+<path d="M0 34H475l18-16h707M0 266h740l18-16h442" fill="none" stroke="url(#neon)" stroke-width="3"/>
+<path d="M32 72V52h115M1168 228v20h-115" fill="none" stroke="#00f5ff" stroke-width="3"/>
+<text x="600" y="95" text-anchor="middle" fill="#00f5ff" font-family="monospace" font-size="18" letter-spacing="5">[ ACCESS GRANTED ]</text>
+<text x="604" y="170" text-anchor="middle" fill="#ff2bd6" opacity=".65" font-family="monospace" font-weight="bold" font-size="68" letter-spacing="8">KORINBLACK</text>
+<text x="600" y="166" text-anchor="middle" fill="#f3faff" font-family="monospace" font-weight="bold" font-size="68" letter-spacing="8">KORINBLACK</text>
+<text x="600" y="211" text-anchor="middle" fill="#c8b9db" font-family="monospace" font-size="17" letter-spacing="4">OFFENSIVE SECURITY // CURIOSITY // DICE</text>
+<circle cx="39" cy="282" r="4" fill="#00f5ff"/><circle cx="54" cy="282" r="4" fill="#ff2bd6"/><text x="70" y="287" fill="#9385aa" font-family="monospace" font-size="13">SYSTEM ONLINE</text></svg>
